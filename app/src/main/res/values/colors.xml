@@ -4,6 +4,6 @@
     <color name="anyline_blue_darker">#AA007ACC</color>
     <color name="anyline_red">#AAE53F16</color>
     <color name="colorAccent">#AAE53F16</color>
-    <color name="colorPrimary">#AAE53F16</color>
-    <color name="colorPrimaryDark">#AAE53F16</color>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#FF9800</color>
 </resources>
